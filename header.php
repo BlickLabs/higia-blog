@@ -66,7 +66,6 @@
         } else {
           $('.site-navbar__menu-container').addClass('site-navbar__menu-container--show-menu');
           $('body').addClass('noscroll');
-          console.log("Te amo Cesiah. Eres el amor de mi vida... :(");
         }
       }
 
