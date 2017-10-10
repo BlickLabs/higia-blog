@@ -31,11 +31,6 @@
           <a href="press-es.html" class="site-navbar__menu-link  higia-font-helveticaneue-thin ">Press</a>
           <a href="contact-es.html" class="site-navbar__menu-link  higia-font-helveticaneue-thin ">Contact</a>
         </div>
-        <div class="site-navbar__lang ">
-          <div class="lang-div"></div>
-          <a href="news.html" class="site-navbar__lang-link active higia-font-helveticaneue-medium">EN</a>
-          <a href="news-es.html " class="site-navbar__lang-link higia-font-helveticaneue-light">ES</a>
-        </div>
       </div>
     </nav>
     <main>
